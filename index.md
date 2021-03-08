@@ -17,4 +17,4 @@ System.out.println("Hola Mundo");
 
 ![Imagen](https://github.com/javibrenlla/pagina/blob/gh-pages/Dise%C3%B1o-y-desarrollo-de-aplicaciones-web.png)
 
-[Referencias.md](https://github.com/javibrenlla/pagina/blob/gh-pages/referencias.md)
+[Referencias.md](https://javibrenlla.github.io/pagina/referencias.md)
