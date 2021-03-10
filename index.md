@@ -15,6 +15,6 @@ System.out.println("Hola Mundo");
 
 [Ies San Clemente](https://www.iessanclemente.net/)
 
-![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgaticosymonetes.com%2Fdiseno-y-desarrollo-de-aplicaciones-web%2F&psig=AOvVaw2GCV6k4W4JUZtiOrBpimzt&ust=1615316688201000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLido92xoe8CFQAAAAAdAAAAABAD)
+![imagen](Diseño-y-desarrollo-de-aplicaciones-web.png)
 
 [Referencias.md](https://javibrenlla.github.io/pagina/referencias)
